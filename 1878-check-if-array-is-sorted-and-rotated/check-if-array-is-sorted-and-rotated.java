@@ -1,22 +1,19 @@
 class Solution {
     public boolean check(int[] nums) {
-        int count = 0;
-        int n = nums.length;
-
-        for(int i = 0; i < n; i++) {
-            if(nums[i] > nums[(i + 1) % n]) {
-                count++;
-            }
+        int count=0;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]>nums[(i+1)%nums.length])count++;
+            if(count>1)return false;
         }
-
-        return count <= 1;
+        return true;
     }
 }
-// count = number of places where current element > next element
-// in a sorted rotated array this can happen at most once
-
-// nums[(i + 1) % n] handles circular comparison
-// last element compares with first element
-
-// if count > 1 → not sorted & rotated
-// else → valid
+/*
+I traverse the array and count how many times the sorted order breaks.
+For every element, I compare it with the next one. The last element is
+compared with the first using circular indexing. If I find more than one
+breaking point, the array cannot be sorted and rotated, so I return false.
+Otherwise, the array satisfies the condition.
+Time Complexity: O(n)
+Space Complexity: O(1)
+*/
