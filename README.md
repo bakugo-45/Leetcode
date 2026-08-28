@@ -22,10 +22,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/bakugo-45/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bakugo-45/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/bakugo-45/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [4020-elevator-requests-i](https://github.com/bakugo-45/Leetcode/tree/master/4020-elevator-requests-i) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/bakugo-45/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/bakugo-45/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
