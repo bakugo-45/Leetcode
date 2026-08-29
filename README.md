@@ -40,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bakugo-45/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bakugo-45/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Math
+|  |
+| ------- |
+| [0728-self-dividing-numbers](https://github.com/bakugo-45/Leetcode/tree/master/0728-self-dividing-numbers) |
 <!---LeetCode Topics End-->
