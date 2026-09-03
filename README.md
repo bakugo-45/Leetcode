@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bakugo-45/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bakugo-45/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bakugo-45/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/bakugo-45/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4020-elevator-requests-i](https://github.com/bakugo-45/Leetcode/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/bakugo-45/Leetcode/tree/master/0204-count-primes) |
 | [0728-self-dividing-numbers](https://github.com/bakugo-45/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bakugo-45/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/bakugo-45/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
 |  |
 | ------- |
