@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bakugo-45/Leetcode/tree/master/0204-count-primes) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bakugo-45/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bakugo-45/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bakugo-45/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bakugo-45/Leetcode/tree/master/0204-count-primes) |
 | [0728-self-dividing-numbers](https://github.com/bakugo-45/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bakugo-45/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
@@ -57,4 +59,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/bakugo-45/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bakugo-45/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bakugo-45/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bakugo-45/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bakugo-45/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bakugo-45/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
