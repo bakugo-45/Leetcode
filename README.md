@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/bakugo-45/Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/bakugo-45/Leetcode/tree/master/0641-design-circular-deque) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/bakugo-45/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bakugo-45/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bakugo-45/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bakugo-45/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bakugo-45/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bakugo-45/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bakugo-45/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Queue
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/bakugo-45/Leetcode/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/bakugo-45/Leetcode/tree/master/0649-dota2-senate) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/bakugo-45/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bakugo-45/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bakugo-45/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
@@ -119,4 +122,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/bakugo-45/Leetcode/tree/master/0836-rectangle-overlap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bakugo-45/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bakugo-45/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bakugo-45/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
