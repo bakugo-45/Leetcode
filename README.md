@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/bakugo-45/Leetcode/tree/master/0016-3sum-closest) |
 | [0204-count-primes](https://github.com/bakugo-45/Leetcode/tree/master/0204-count-primes) |
+| [0260-single-number-iii](https://github.com/bakugo-45/Leetcode/tree/master/0260-single-number-iii) |
 | [0622-design-circular-queue](https://github.com/bakugo-45/Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/bakugo-45/Leetcode/tree/master/0641-design-circular-deque) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/bakugo-45/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bakugo-45/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/bakugo-45/Leetcode/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
