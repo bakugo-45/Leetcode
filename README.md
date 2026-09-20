@@ -141,4 +141,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/bakugo-45/Leetcode/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/bakugo-45/Leetcode/tree/master/0338-counting-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/bakugo-45/Leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
