@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/bakugo-45/Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/bakugo-45/Leetcode/tree/master/0641-design-circular-deque) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/bakugo-45/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bakugo-45/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bakugo-45/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bakugo-45/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bakugo-45/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/bakugo-45/Leetcode/tree/master/0016-3sum-closest) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/bakugo-45/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bakugo-45/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/bakugo-45/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/bakugo-45/Leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/bakugo-45/Leetcode/tree/master/0338-counting-bits) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bakugo-45/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/bakugo-45/Leetcode/tree/master/0191-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bakugo-45/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
