@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/bakugo-45/Leetcode/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/bakugo-45/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/bakugo-45/Leetcode/tree/master/0836-rectangle-overlap) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/bakugo-45/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3870-count-commas-in-range](https://github.com/bakugo-45/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bakugo-45/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/bakugo-45/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/bakugo-45/Leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/bakugo-45/Leetcode/tree/master/0338-counting-bits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bakugo-45/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/bakugo-45/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
