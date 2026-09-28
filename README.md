@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0649-dota2-senate](https://github.com/bakugo-45/Leetcode/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/bakugo-45/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bakugo-45/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bakugo-45/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/bakugo-45/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bakugo-45/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bakugo-45/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bakugo-45/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bakugo-45/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bakugo-45/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
