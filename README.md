@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/bakugo-45/Leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/bakugo-45/Leetcode/tree/master/0263-ugly-number) |
+| [0371-sum-of-two-integers](https://github.com/bakugo-45/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0728-self-dividing-numbers](https://github.com/bakugo-45/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/bakugo-45/Leetcode/tree/master/0836-rectangle-overlap) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/bakugo-45/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/bakugo-45/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/bakugo-45/Leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/bakugo-45/Leetcode/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/bakugo-45/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bakugo-45/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/bakugo-45/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
