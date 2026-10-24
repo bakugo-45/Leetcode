@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/bakugo-45/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/bakugo-45/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bakugo-45/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/bakugo-45/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bakugo-45/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/bakugo-45/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/bakugo-45/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0728-self-dividing-numbers](https://github.com/bakugo-45/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/bakugo-45/Leetcode/tree/master/0836-rectangle-overlap) |
+| [2409-count-days-spent-together](https://github.com/bakugo-45/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/bakugo-45/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3870-count-commas-in-range](https://github.com/bakugo-45/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bakugo-45/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
