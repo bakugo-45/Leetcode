@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/bakugo-45/Leetcode/tree/master/0016-3sum-closest) |
 | [0204-count-primes](https://github.com/bakugo-45/Leetcode/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/bakugo-45/Leetcode/tree/master/0260-single-number-iii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/bakugo-45/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0622-design-circular-queue](https://github.com/bakugo-45/Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/bakugo-45/Leetcode/tree/master/0641-design-circular-deque) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/bakugo-45/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/bakugo-45/Leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/bakugo-45/Leetcode/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/bakugo-45/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/bakugo-45/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0728-self-dividing-numbers](https://github.com/bakugo-45/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/bakugo-45/Leetcode/tree/master/0836-rectangle-overlap) |
 | [2409-count-days-spent-together](https://github.com/bakugo-45/Leetcode/tree/master/2409-count-days-spent-together) |
