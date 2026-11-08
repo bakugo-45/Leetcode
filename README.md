@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/bakugo-45/Leetcode/tree/master/0641-design-circular-deque) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/bakugo-45/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bakugo-45/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/bakugo-45/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bakugo-45/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bakugo-45/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bakugo-45/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -134,11 +135,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/bakugo-45/Leetcode/tree/master/0016-3sum-closest) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/bakugo-45/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bakugo-45/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/bakugo-45/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bakugo-45/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/bakugo-45/Leetcode/tree/master/0016-3sum-closest) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/bakugo-45/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Geometry
 |  |
 | ------- |
@@ -185,5 +188,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/bakugo-45/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bakugo-45/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
